@@ -1,0 +1,13 @@
+body{
+    background-color: #99ddfc;
+}
+#clock{
+    background-color: #fff;
+    color: black;
+    font-size: 145px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin-left: 100px;
+    margin-top : 250px;
+    text-align: center;
+}
